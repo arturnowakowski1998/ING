@@ -5,6 +5,6 @@
 2. Kliknij zielony przycisk "<> Code"
 2.1. Wybierz opcję "Download ZIP"
 2.2 Wypakuj plik ZIP do wybranego przez siebie folderu.
-2. Wejdź do folderu, w którym wypakowany został plik "Zadanie_dla_ING.py".
-3. Dwukrotnie kliknij na ikonkę skryptu. 
-4. Postępuj zgodnie z instrukcjami, wyświetlanymi w otwartej konsoli.
+3. Wejdź do folderu, w którym wypakowany został plik "Zadanie_dla_ING.py".
+4. Dwukrotnie kliknij na ikonkę skryptu. 
+5. Postępuj zgodnie z instrukcjami, wyświetlanymi w otwartej konsoli.
