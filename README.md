@@ -1,9 +1,9 @@
 1. Upewnij się, że komputer posiada zainstalowany interpreter Python oraz framework Playwright. Instrukcje dotyczące ich ewentualnej instalacji, znajdują się tutaj:
-   -PYTHON : https://docs.python.org/3.14/installing/index.html (EN)
-   -PLAYWRIGHT :  https://playwright.dev/python/docs/intro (EN)
-3. Kliknij zielony przycisk "<> Code"
-4. Wybierz opcję "Download ZIP"
+2. PYTHON : https://docs.python.org/3.14/installing/index.html (EN)
+3. PLAYWRIGHT :  https://playwright.dev/python/docs/intro (EN)
+4. Kliknij zielony przycisk "<> Code"
+5. Wybierz opcję "Download ZIP"
 4 Wypakuj plik ZIP do wybranego przez siebie folderu.
-5. Wejdź do folderu, w którym wypakowany został plik "Zadanie_dla_ING.py".
-6. Dwukrotnie kliknij na ikonkę skryptu. 
-7. Postępuj zgodnie z instrukcjami, wyświetlanymi w otwartej konsoli.
+6. Wejdź do folderu, w którym wypakowany został plik "Zadanie_dla_ING.py".
+7. Dwukrotnie kliknij na ikonkę skryptu. 
+8. Postępuj zgodnie z instrukcjami, wyświetlanymi w otwartej konsoli.
