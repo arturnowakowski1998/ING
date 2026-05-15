@@ -1,9 +1,7 @@
 from playwright.sync_api import sync_playwright
 import time
+print("Trwa wykonywanie skryptu...", flush=True)
 with sync_playwright() as p:
-
-
-    time.sleep(0.1)
     browser = p.chromium.launch() 
     page = browser.new_page()
     page.goto("https://ing.pl")   
