@@ -1,5 +1,4 @@
 1. Upewnij się, że komputer posiada zainstalowany interpreter Python oraz framework Playwright.
-
 1.1. Instrukcje dotyczące ich ewentualnej instalacji, znajdują się tutaj:
 
 1.1.a PYTHON : https://docs.python.org/3.14/installing/index.html (EN)
