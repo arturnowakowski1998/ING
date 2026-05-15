@@ -21,4 +21,4 @@ with sync_playwright() as p:
     # Zapewnienie powtarzalności skryptu:
     page.context.clear_cookies()
     browser.close()
-    input('Egzekucja udana. Potwierdź ZAMKNIĘCIE skryptu.')
+    input('Wciśnij dowolny przycisk, by ZAMKNĄĆ okienko.')
